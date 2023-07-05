@@ -6,11 +6,6 @@
 
 I have knowledge in Discord bots, and many more projects. I've been in the programming world since 2021 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!*
 
-<b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
-
-![Discord](https://github.com/AstroProductions/AstroProductions/blob/main/light-new.png#gh-light-mode-only)
-![Discord](https://github.com/AstroProductions/AstroProductions/blob/main/dark-new.png#gh-dark-mode-only)
-
 ----
 
 ## GitHub Statistics
