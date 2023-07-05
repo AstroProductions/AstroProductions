@@ -1,6 +1,4 @@
-### 💻 [Hyperz][website] 💻
-
-![](https://komarev.com/ghpvc/?username=AstroProductions&label=Views&color=lightgrey)
+[](https://komarev.com/ghpvc/?username=AstroProductions&label=Views&color=lightgrey)
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/AstroProductions)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/zAHHQBavWb)](https://discord.gg/zAHHQBavWb)
 
