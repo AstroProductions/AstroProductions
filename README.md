@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/AstroProductions)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/zAHHQBavWb)](https://discord.gg/zAHHQBavWb)
 
-I have knowledge in Discord bots, and many more projects. I've been in the programming world since 2021 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!*
+I have knowledge in Discord bots, and many more projects. I've been in the programming world since 2021 and have fully self taught myself from various resources online.
 
 ----
 
