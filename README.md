@@ -1,20 +1,17 @@
 ### 💻 [Hyperz][website] 💻
 
-![](https://komarev.com/ghpvc/?username=itz-hyperz&label=Views&color=lightgrey)
-[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://store.hyperz.net)](https://bosssoftware.net)
-[![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/itz-hyperz)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://store.hyperz.net/discord)](https://bosssoftware.net/discord)
+![](https://komarev.com/ghpvc/?username=AstroProductions&label=Views&color=lightgrey)
+[![website](https://img.shields.io/badge/Website-9B9B9B.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://discord.gg/N7kS7PVmjf)](https://discord.gg/N7kS7PVmjf)
+[![GitHub followers](https://img.shields.io/github/followers/itz-hyperz?label=Follow&style=social)](https://github.com/AstroProductions)
+[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/zAHHQBavWb)](https://discord.gg/zAHHQBavWb)
 
-*Hi, I'm Hyperz, a Full Stack Developer located in Michigan, USA. I mainly work on Node based applications, I have knowledge in Discord bots, ExpressJS websites, and many more projects. I've been in the programming world since 2019 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!*
+I have knowledge in Discord bots, and many more projects. I've been in the programming world since 2021 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!*
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/light-new.png#gh-light-mode-only)
-![Discord](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/dark-new.png#gh-dark-mode-only)
+![Discord](https://github.com/AstroProductions/AstroProductions/blob/main/light-new.png#gh-light-mode-only)
+![Discord](https://github.com/AstroProductions/AstroProductions/blob/main/dark-new.png#gh-dark-mode-only)
 
-**[HIRE ME][hireme]**<br>
-**[HIRE ME][hireme]**<br>
-**[HIRE ME][hireme]**<br>
 <br>
 **[Join Discord][discord]**
 
@@ -112,9 +109,4 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[website]: https://bosssoftware.net
-[twitter]: https://twitter.com/itz_hyperz
-[twitch]: https://twitch.tv/itzhyperzlive
-[youtube]: https://youtube.com/thatguyhyperz
-[discord]: https://bosssoftware.net/discord
-[hireme]: mailto:itzhyperzyt@gmail.com
+[website]: [https://ap.gg](https://discord.gg/zAHHQBavWb)
